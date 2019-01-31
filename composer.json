@@ -1,0 +1,22 @@
+{
+    "name": "lucas-cardial/user-data",
+    "description": "A package for lumen to manipulate user data between microservices",
+    "type": "lumen plugin, user auth data, user data on microsservices",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Cardial",
+            "email": "luccascardial@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LucasCardial\\UserDataService\\": "src/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.0"
+    }
+}

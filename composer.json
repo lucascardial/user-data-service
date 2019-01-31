@@ -1,7 +1,7 @@
 {
     "name": "lucas-cardial/user-data",
     "description": "A package for lumen to manipulate user data between microservices",
-    "type": "lumen plugin, user auth data, user data on microsservices",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
